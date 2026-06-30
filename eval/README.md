@@ -21,16 +21,5 @@ make -j8
 ./compare_cpu_test_kitti -f ../../kitti_data/000000.bin -s 300000
 ```
 
-### 🎮 GPU Version
-
-```bash
-cd src_gpu
-mkdir build
-cd build
-cmake ..
-make -j8
-./compare_test_kitti -f ../../kitti_data/000000.bin -s 300000
-```
-
 ---
 Made with ❤️ for performance evaluation
