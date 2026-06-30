@@ -1,6 +1,6 @@
 # 🧪 NS-FPS Evaluation
 
-This folder contains evaluation scripts for testing the latency performance of our ns-fps implementation on both CPU and GPU. ⚡
+This folder contains evaluation scripts for testing the latency performance of our ns-fps implementation on CPU. ⚡
 
 ## 💻 Hardware Requirements
 
